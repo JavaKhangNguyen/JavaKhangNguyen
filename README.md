@@ -11,16 +11,17 @@ Hi! My name is Nguyen Phuc Khang <img src="https://media.giphy.com/media/26tn33a
 
 ### Back-end Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs,nginx)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=docker,postman)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs,nginx)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=fastapi,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=docker,postman)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <br/>
+
 
 ### Socials
 
 <div id="badges">
-  <a href="[linkedin.com/in/npkhang](https://www.linkedin.com/in/ngpkhang/)">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn Badge"/>
+  <a href="https://www.facebook.com/JavaKhangNguyen/">
+    <img src="https://github.com/JavaKhangNguyen/markdown-badges/blob/497db9714109d98f69a2c9cf926ac0ae2793bb92/facebook1.svg" alt="Facebook Badge"/>
   </a>
-  <a href="[facebook.com/JavaKhangNguyen](https://www.facebook.com/JavaKhangNguyen/)">
-    <img src="https://github.com/JavaKhangNguyen/markdown-badges/blob/a6bdad6056f9d126731f26d7baf2f3b55cedd4a2/facebook1.svg" alt="Facebook Badge"/>
+  <a href="https://www.linkedin.com/in/ngpkhang/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn Badge"/>
   </a>
 </div>
