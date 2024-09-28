@@ -1,7 +1,7 @@
 Hi! My name is Nguyen Phuc Khang <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100">
 ========================================================================================================================================
 
-🌍  I am a Software Engineer based in Ho Chi Minh City, Vietnam. 
+🌍  I am a Software Engineer graduated from International University, Ho Chi Minh City, Vietnam. 
 <br/>
 
 ### Front-end Skills
