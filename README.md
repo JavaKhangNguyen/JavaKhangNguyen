@@ -1,4 +1,4 @@
-Hi! My name is Nguyen Phuc Khang <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="38">
+Hi! My name is Nguyen Phuc Khang <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100">
 ========================================================================================================================================
 
 🌍  I am a Software Engineer based in Ho Chi Minh City, Vietnam. 
