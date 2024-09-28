@@ -18,10 +18,10 @@ Hi! My name is Nguyen Phuc Khang <img src="https://media.giphy.com/media/26tn33a
 ### Socials
 
 <div id="badges">
-  <a href="https://www.facebook.com/JavaKhangNguyen/">
-    <img src="https://github.com/JavaKhangNguyen/markdown-badges/blob/497db9714109d98f69a2c9cf926ac0ae2793bb92/facebook1.svg" alt="Facebook Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/ngpkhang/">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Java_KhangNguyen">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank1.svg" alt="Hackerrank Badge"/>
   </a>
 </div>
