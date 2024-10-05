@@ -14,7 +14,7 @@ Hi! My name is Nguyen Phuc Khang <img src="https://ci3.googleusercontent.com/mai
 
 ### Back-end Skills
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=mysql,nginx)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=py,fastapi)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=vercel,postman)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vite)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=mysql,nginx)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=py,fastapi)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=vercel,postman)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <br/>
 
 ### Socials
