@@ -3,6 +3,10 @@ Hi! My name is Nguyen Phuc Khang <img src="https://ci3.googleusercontent.com/mai
 <img width="25" src="https://github.com/stevenrskelton/flag-icon/blob/16e5f3877c0a756e1e844174309581a82608633e/svg/country-4x3/vn.svg" alt="VN"/> I am a Software Engineer graduated from International University, Ho Chi Minh City, Vietnam.
 <br/>
 
+## My Website
+
+<h2><a href=https://npkhang.id.vn/ target=""_blank">npkhang.id.vn</a></h2>
+
 ### Front-end Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,vue)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,materialui)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,7 +16,6 @@ Hi! My name is Nguyen Phuc Khang <img src="https://ci3.googleusercontent.com/mai
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=mysql,nginx)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=py,fastapi)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=vercel,postman)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <br/>
-
 
 ### Socials
 
