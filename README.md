@@ -23,7 +23,7 @@ Hi! My name is Nguyen Phuc Khang <img src="https://ci3.googleusercontent.com/mai
   <a href="https://www.linkedin.com/in/ngpkhang/">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/Java_KhangNguyen">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank1.svg" alt="Hackerrank Badge"/>
+  <a href="https://www.facebook.com/JavaKhangNguyen/">
+    <img src="https://github.com/JavaKhangNguyen/markdown-badges/blob/25be1ccdc355fce5ac06e88455de7c11e7399755/facebook1.svg" alt="Facebook Badge"/>
   </a>
 </div>
