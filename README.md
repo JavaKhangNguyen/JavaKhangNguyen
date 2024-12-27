@@ -9,14 +9,17 @@ I am a Front-end Developer currently working at Ho Chi Minh City <img width="25"
 
 <h2><a href=https://npkhang.id.vn/ target=""_blank">npkhang.id.vn</a></h2>
 
+### Programming Languages
+![My Skills](https://skillicons.dev/icons?i=js,ts,py,java)
+
 ### Front-end Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,materialui)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,materialui)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=github,git)
 <br/>
 
 ### Back-end Skills
 
-[![My Skills](https://skillicons.dev/icons?i=vite,ubuntu)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=mysql,nginx)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=py,fastapi)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=vercel,postman)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=vite,vitest)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ubuntu,nginx)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=fastapi,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=vercel,postman)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <br/>
 
 ### Socials
