@@ -1,6 +1,8 @@
-Hi! My name is Nguyen Phuc Khang <img src="https://ci3.googleusercontent.com/mail-sig/AIorK4xJCYXKute2Im3Manv56syP5_qsDOVl1BUY6r4ILukaUfgI4_Hn4M59bcbwAD_Lip8NK9_hStE" width="200">
+<img src="https://static.ybox.vn/2024/4/2/1713235346755-Red---DigiEx-logo.jpg" width="150"> 
+
+Hi! My name is Nguyen Phuc Khang 
 ========================================================================================================================================
-<img width="25" src="https://github.com/stevenrskelton/flag-icon/blob/16e5f3877c0a756e1e844174309581a82608633e/svg/country-4x3/vn.svg" alt="VN"/> I am a Fresher Software Developer graduated from International University, Ho Chi Minh City, Vietnam.
+I am a Front-end Developer currently working at Ho Chi Minh City <img width="25" src="https://github.com/stevenrskelton/flag-icon/blob/16e5f3877c0a756e1e844174309581a82608633e/svg/country-4x3/vn.svg" alt="VN"/>
 <br/>
 
 ## My Website
