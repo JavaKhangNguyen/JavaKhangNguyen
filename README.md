@@ -1,4 +1,4 @@
-<img src="https://static.ybox.vn/2024/4/2/1713235346755-Red---DigiEx-logo.jpg" width="150"> 
+<img src="https://github.com/JavaKhangNguyen/README-Assets/blob/46be7ba08d962aac7951698a2bf7abd3198b08e4/DigiEx_Remixed.png" width="150"> 
 
 Hi! My name is Nguyen Phuc Khang 
 ========================================================================================================================================
