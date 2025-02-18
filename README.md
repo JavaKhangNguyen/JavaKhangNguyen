@@ -1,8 +1,7 @@
-<img src="https://github.com/JavaKhangNguyen/README-Assets/blob/46be7ba08d962aac7951698a2bf7abd3198b08e4/DigiEx_Remixed.png" width="150"> 
-
+<!-- <img src="https://github.com/JavaKhangNguyen/README-Assets/blob/46be7ba08d962aac7951698a2bf7abd3198b08e4/DigiEx_Remixed.png" width="150">  -->
 Hi! My name is Nguyen Phuc Khang 
 ========================================================================================================================================
-I am a Front-end Developer currently working at Ho Chi Minh City <img width="25" src="https://github.com/stevenrskelton/flag-icon/blob/16e5f3877c0a756e1e844174309581a82608633e/svg/country-4x3/vn.svg" alt="VN"/>
+I am a Front-end Developer at Ho Chi Minh City <img width="25" src="https://github.com/stevenrskelton/flag-icon/blob/16e5f3877c0a756e1e844174309581a82608633e/svg/country-4x3/vn.svg" alt="VN"/>
 <br/>
 
 ## My Website
