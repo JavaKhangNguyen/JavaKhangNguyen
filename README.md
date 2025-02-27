@@ -1,8 +1,6 @@
 <!-- <img src="https://github.com/JavaKhangNguyen/README-Assets/blob/46be7ba08d962aac7951698a2bf7abd3198b08e4/DigiEx_Remixed.png" width="150">  -->
-Hi! My name is Nguyen Phuc Khang 
-========================================================================================================================================
-I am a Front-end Developer at Ho Chi Minh City <img width="25" src="https://github.com/stevenrskelton/flag-icon/blob/16e5f3877c0a756e1e844174309581a82608633e/svg/country-4x3/vn.svg" alt="VN"/>
-<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=07C2F7&center=true&vCenter=true&width=600&lines=Hi!+My+name+is+Nguyen+Phuc+Khang;I+am+a+Software+Developer+from+HCMC%2C+VN)](https://git.io/typing-svg)
 
 ## My Website
 
