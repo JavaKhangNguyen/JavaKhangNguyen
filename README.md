@@ -2,22 +2,31 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=07C2F7&center=true&vCenter=true&width=600&lines=Hi!+My+name+is+Nguyen+Phuc+Khang;I+am+a+Software+Developer+from+HCMC%2C+VN)](https://git.io/typing-svg)
 
-## My Website
 
+## My Website
 <h2><a href=https://npkhang.id.vn/ target=""_blank">npkhang.id.vn</a></h2>
+
 
 ### Programming Languages
 ![My Skills](https://skillicons.dev/icons?i=js,ts,py,java)
+
+---
 
 ### Front-end Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,materialui,figma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=github,git)
 <br/>
 
+---
+
+
 ### Back-end Skills
 
 [![My Skills](https://skillicons.dev/icons?i=vite,vitest)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ubuntu,nginx)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=fastapi,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=vercel,postman)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <br/>
+
+---
+
 
 ### Socials
 
