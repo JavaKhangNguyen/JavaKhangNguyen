@@ -21,7 +21,7 @@
 
 ### Back-end Skills
 
-[![My Skills](https://skills.syvixor.com/api/icons?i=nodejs,streamlit)](https://skills.syvixor.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vite,vitest)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ubuntu,nginx)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skills.syvixor.com/api/icons?i=yolo,fastapi,streamlit)](https://skills.syvixor.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skills.syvixor.com/api/icons?i=vercel,servicenow)](https://skills.syvixor.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skills.syvixor.com/api/icons?i=xampp,postman)](https://skills.syvixor.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+[![My Skills](https://skills.syvixor.com/api/icons?i=nodejs,streamlit)](https://skills.syvixor.com)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skills.syvixor.com/api/icons?i=vercel,servicenow)](https://skills.syvixor.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skills.syvixor.com/api/icons?i=vite,vitest)](https://skills.syvixor.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skills.syvixor.com/api/icons?i=yolo,fastapi)](https://skills.syvixor.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ubuntu,nginx)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skills.syvixor.com/api/icons?i=xampp,postman)](https://skills.syvixor.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <br/>
 
 
