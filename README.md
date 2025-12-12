@@ -1,4 +1,4 @@
-<img src="https://dxc.com/content/dam/dxc/projects/dxc-com/us/images/about-us/newsroom/logos-for-media/horizontal/DXC%20Logo%20Horiz_Purple+Black%20RGB.png" width="300">
+<img src="https://dxc.com/content/dam/dxc/projects/dxc-com/us/images/about-us/newsroom/DXC-Veritcal-Tagline-Full-Color-Dark.png" width="300">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=07C2F7&center=true&vCenter=true&width=600&lines=Hi!+My+name+is+Nguyen+Phuc+Khang;I+am+a+Software+Developer+from+HCMC%2C+VN)](https://git.io/typing-svg)
 
