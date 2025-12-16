@@ -1,6 +1,6 @@
 <img src="https://dxc.com/content/dam/dxc/projects/dxc-com/us/images/about-us/newsroom/DXC-Veritcal-Tagline-Full-Color-Dark.png" width="300">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4995FF&center=true&vCenter=true&width=600&lines=Hi!+My+name+is+Nguyen+Phuc+Khang;I+am+a+Software+Engineer+from+HCMC%2C+VN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4995FF&center=true&vCenter=true&width=600&lines=Hi!+Khang+Nguyen+here;I+am+a+Software+Engineer+from+Vietnam)](https://git.io/typing-svg)
 
 <h2><a href=https://npkhang.id.vn/ target=""_blank">npkhang.id.vn</a></h2>
 
